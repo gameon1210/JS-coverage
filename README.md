@@ -1,3 +1,4 @@
 # JS-coverage
 
-Created Using Bolt.net
+Created Using Bolt.new
+
